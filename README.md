@@ -4,21 +4,19 @@
 
 ## 🌟 Features 
 - 🖥️ **Responsive Design**: Looks great on all devices!  
-- 🛒 **Cart System**: Add, update, and remove items with ease.  
-- 💳 **Checkout Ready**: Simulated checkout flow for customer satisfaction.  
 - 🔍 **Product Catalog**: Browse items with neat categorization.  
 - 🎨 **Customizable**: Easy to update for your unique brand needs.
 
 ## ⚙️ Built With
 - **HTML5** & **CSS3** for a sleek design 🖌️  
 - **JavaScript** for interactivity ✨  
-- **Node.js** for server-side functionality ⚡  
-- **Express.js** to handle routing 🛤️  
-- **MongoDB** for database management 🗂️  
+
+
+**GET LIVE PREVIEW -** **** 
 
 ---
 
 ## 🚀 Quick Start
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/yourshop.git
+   git clone https://github.com/KnightDev4u/Basic-Ecomerce-Store
